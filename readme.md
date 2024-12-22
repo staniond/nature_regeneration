@@ -10,7 +10,7 @@ Also adds a command to heal all nature entities to max health, just type `/regen
 
 ### Notes
 
-Healing is quite heavy on UPS on large worlds (script has to iterate through all nature entities).
+Healing is quite heavy on UPS on large worlds (script has to iterate through all nature entities). You can adjust the healing frequency in map settings (once in 5s by default).
 It is possible to disable healing over time in the map settings. You can still use the `/regenerate-nature` command without any performance consequences while playing.
 
 Entities that this mod applies health regen stat to are autodetected
