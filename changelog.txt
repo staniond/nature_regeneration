@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2024-12-24
+  Major Features:
+    - Do not look for entities to heal if none are damaged. Major UPS saving, mod should now have
+      almost zero performance impact when no nature entities are damaged.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2024-12-19
   Changes:
